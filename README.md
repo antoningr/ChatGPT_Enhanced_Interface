@@ -1,4 +1,4 @@
-# 💬 ChatGPT Enhanced Interface
+# ֎ ChatGPT Enhanced Interface
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
