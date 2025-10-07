@@ -27,13 +27,21 @@ Includes:
 ## 🚀 Features
 
 ✅ Support for multiple GPT models (GPT-3.5, GPT-4, etc.)
+
 ✅ Adjustable **temperature**, **max tokens**, and **context length**
+
 ✅ Custom **system prompt** for behavior control
+
 ✅ **Clipboard copy** for any message
+
 ✅ **Download conversation** as .txt
+
 ✅ Persistent session state for chat history
+
 ✅ Real-time usage statistics in sidebar
+
 ✅ Reset and restart chat instantly
+
 ✅ Clean and responsive **Streamlit UI**
 
 
@@ -41,7 +49,7 @@ Includes:
 
 ### Streamlit Web App
 
-![Streamlit App Screenshot](image/image_chatgpt_open_ia_app_1g)
+![Streamlit App Screenshot](image/image_chatgpt_open_ia_app_1.jpg)
 
 
 ## 🛠 Installation
@@ -103,14 +111,29 @@ User → Session State → OpenAI API → Streamlit UI → Response
 ```
 
 
-## ⚙️ Available Models
+## ⚙️ Available Models (Open AI)
+
+Chat models:
 - gpt-3.5-turbo
+- gpt-3.5-turbo-16k
+- gpt-4o
+- gpt-4o-mini
+- gpt-4-turbo
 - gpt-4
 - gpt-4-32k
+
+Legacy completion models:
 - text-davinci-003
+- text-davinci-002
 - text-curie-001
 - text-babbage-001
 - text-ada-001
+
+Code and embedding models:
+- gpt-3.5-turbo-instruct
+- davinci-codex
+- babbage-codex
+- text-embedding-ada-002
 
 You can easily extend or modify this list in the sidebar configuration.
 
